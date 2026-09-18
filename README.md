@@ -43,7 +43,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 streamlit run app.py
 
-The application should open at http://localhost:8501.
+The application should open at http://localhost:8502.
 Data file
 Place the supplied CSV in exactly this location:
 data/synthetic_kenya_credit_data.csv
